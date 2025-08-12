@@ -1,0 +1,11 @@
+# Generated files
+*.vcd
+*.out
+*.log
+*.wav
+*.fst
+simv*
+csrc/
+INCA_libs/
+work/
+.DS_Store
